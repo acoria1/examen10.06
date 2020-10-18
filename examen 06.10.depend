@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1601983122 source:c:\users\agusi\desktop\acoria_pp_laboratorio1\examen 06.10\ac_getfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ac_getFunciones.h"
+
+1601983002 c:\users\agusi\desktop\acoria_pp_laboratorio1\examen 06.10\ac_getfunciones.h
+
+1602579949 source:c:\users\agusi\desktop\acoria_pp_laboratorio1\examen 06.10\funciones_adicionales.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones_adicionales.h"
+
+1602568249 c:\users\agusi\desktop\acoria_pp_laboratorio1\examen 06.10\funciones_adicionales.h
+
+1602600893 source:c:\users\agusi\desktop\acoria_pp_laboratorio1\examen 06.10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ac_getFunciones.h"
+	"menus.h"
+	"funciones_adicionales.h"
+	"mascotas.h"
+	"razas.h"
+	"hardcodeos.h"
+
+1602566388 c:\users\agusi\desktop\acoria_pp_laboratorio1\examen 06.10\menus.h
+
+1601992302 c:\users\agusi\desktop\acoria_pp_laboratorio1\examen 06.10\ac_datastorage.h
+
+1602591741 c:\users\agusi\desktop\acoria_pp_laboratorio1\examen 06.10\mascotas.h
+
+1602591748 c:\users\agusi\desktop\acoria_pp_laboratorio1\examen 06.10\razas.h
+	"mascotas.h"
+
+1602592528 source:c:\users\agusi\desktop\acoria_pp_laboratorio1\examen 06.10\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ac_getFunciones.h"
+	"mascotas.h"
+	"razas.h"
+	"funciones_adicionales.h"
+	"hardcodeos.h"
+
+1602591786 source:c:\users\agusi\desktop\acoria_pp_laboratorio1\examen 06.10\hardcodeos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ac_getFunciones.h"
+	"menus.h"
+	"funciones_adicionales.h"
+	"mascotas.h"
+	"razas.h"
+	"hardcodeos.h"
+
+1602593698 source:c:\users\agusi\desktop\acoria_pp_laboratorio1\examen 06.10\razas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"mascotas.h"
+	"ac_getFunciones.h"
+	"menus.h"
+	"funciones_adicionales.h"
+	"razas.h"
+
+1602566922 c:\users\agusi\desktop\acoria_pp_laboratorio1\examen 06.10\hardcodeos.h
+

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="examen 06.10" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/examen 06" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/examen 06" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="ac_dataStorage.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="ac_getFunciones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ac_getFunciones.h" />
+		<Unit filename="funciones_adicionales.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funciones_adicionales.h" />
+		<Unit filename="hardcodeos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="hardcodeos.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mascotas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mascotas.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="menus.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="menus.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="razas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="razas.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
